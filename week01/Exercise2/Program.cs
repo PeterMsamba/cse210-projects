@@ -31,7 +31,7 @@ class Program
             letter = "F";
         }
 
-        // print statement for the letter grade
+        //print statement for the letter grade
         Console.WriteLine($"Your letter grade is: {letter}");
 
         if (grade >= 70)
