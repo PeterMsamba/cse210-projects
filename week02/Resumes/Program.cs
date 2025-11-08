@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-// The main class that contains the program entry point
+// The  main class that contains the program entry point
 class Program
 {
     static void Main(string[] args)
@@ -69,7 +69,6 @@ public class Resume
         Console.WriteLine($"\nName: {_name}");
         Console.WriteLine("Jobs:");
 
-        // Iterate through each job and call its Display method
         foreach (Job job in _jobs)
         {
             job.Display();
