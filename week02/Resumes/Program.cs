@@ -40,10 +40,9 @@ class Program
 }
 
 // Class Definitions Start Here
-
 public class Job
 {
-    // Responsibilities: Member Variables
+    //Member Variables
     public string _company;
     public string _jobTitle;
     public int _startYear;
