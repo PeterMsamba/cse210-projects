@@ -1,13 +1,13 @@
 using System;
 using System.Threading;
 using System.Collections.Generic;
-
+// Additional code for creativity is "Keeping a log of how many times activities were performed"
 public class Program
 {
     public static void DisplayMenu()
     {
         Console.WriteLine("\n" + new string('=', 50));
-        Console.WriteLine("🧘 **Mindfulness Activity Program** 🧘");
+        Console.WriteLine("**Mindfulness Activity Program**");
         Console.WriteLine(new string('=', 50));
         Console.WriteLine("Please choose an activity to begin:");
         Console.WriteLine("1. Breathing Activity");
