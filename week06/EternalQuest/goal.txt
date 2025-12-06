@@ -1,0 +1,3 @@
+SimpleGoal:Working on my assignment, sent at least two hours on it,100,True
+EternalGoal:Scripture,Have time for Scripture focus,50,True
+ChecklistGoal:buy groceries,Want to markert,70,True

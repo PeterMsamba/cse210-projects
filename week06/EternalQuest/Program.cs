@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the EternalQuest Project.");
+        // Instantiate the GoalManager and start the program loop
+        GoalManager manager = new GoalManager();
+        manager.Start();
     }
 }
